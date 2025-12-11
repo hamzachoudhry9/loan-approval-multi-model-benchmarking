@@ -1,4 +1,4 @@
-# Loan Approval Prediction
+# Loan Approval Prediction: Multi-Model Benchmarking and Ensembles
 
 End-to-end machine learning pipeline for predicting bank loan approval decisions from customer demographics, financial attributes, and credit history. The project benchmarks multiple models and builds cost-aware ensembles that align predictions with business risk and profit.
 
@@ -42,7 +42,7 @@ The final system outputs approval probabilities and provides decision thresholds
 - **Feature engineering**
   - Loan-to-income ratio and other derived variables to capture repayment capacity.
 
-- **Model zoo and comparison**
+- **Model benchmarking and comparison**
   - Logistic Regression
   - Gaussian Naive Bayes
   - k-Nearest Neighbors
@@ -76,7 +76,7 @@ The final system outputs approval probabilities and provides decision thresholds
 
 ---
 
-## 5. Recommended Repository Structure
+## 5. Repository Structure
 
 ```text
 .
