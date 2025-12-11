@@ -28,8 +28,6 @@ The final system outputs approval probabilities and provides decision thresholds
   - **Numeric:** age, annual income, loan amount, interest rate, employment length, credit history length, loan-to-income ratio.
   - **Categorical:** loan intent, loan grade, home ownership, prior default flag.
 
-> Download the dataset from Kaggle and place the CSV files in a local `data/` directory.
-
 ---
 
 ## 3. Key Features
