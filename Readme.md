@@ -69,8 +69,8 @@ The final system outputs approval probabilities and provides decision thresholds
   - `pandas`, `numpy`
   - `scikit-learn`
   - `xgboost`
-  - `matplotlib`, `seaborn` (for plots)
-  - `jupyter` / `notebook` for interactive analysis
+  - `matplotlib`, `seaborn` 
+  - `jupyter` / `notebook` 
 
 ---
 
