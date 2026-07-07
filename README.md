@@ -34,7 +34,7 @@ This repo does not redistribute the Kaggle data. `data/generate_synthetic_data.p
 schema-matched synthetic sample so the pipeline runs right after cloning. See
 [How to Run](#6-how-to-run) for swapping in the real dataset.
 
-## 3. Data Science Lifecycle Covered
+## 3. Methodology
 
 | Stage | What's in the notebook |
 |---|---|
