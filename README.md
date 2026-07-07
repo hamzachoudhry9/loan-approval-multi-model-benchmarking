@@ -36,7 +36,7 @@ schema-matched synthetic sample so the pipeline runs right after cloning. See
 
 ## 3. Methodology
 
-| Stage | What's in the notebook |
+| Stage | Description |
 |---|---|
 | Business understanding | Problem framing, cost asymmetry, success metrics (Section 1) |
 | Data understanding & EDA | Class balance, missingness, distributions split by target, categorical default rates, correlation heatmap, and a data-driven findings summary (Section 2) |
